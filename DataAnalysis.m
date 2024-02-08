@@ -1,7 +1,4 @@
 %% classify finger/reach and grasp movements
-% 2024-01-15_10-25-00 / 2024-01-15_11-01-39
-% 2024-01-15_13-02-44 / 2024-01-15_13-30-02
-% 2024-01-17_11-20-15 / 2024-01-17_11-53-53
 %
 % 3x5x5 finger movement recordings (30s each): fingers open/close every 2s
 % 3x5x5 reach and grasp recordings 
